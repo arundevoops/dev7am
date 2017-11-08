@@ -1,3 +1,11 @@
+void sub()
+{
+  a-b
+}
+void add()
+{
+  a+b
+}
 void main()
 {
   printf(" Hello word ");

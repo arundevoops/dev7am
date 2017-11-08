@@ -1,3 +1,5 @@
+void addition()
+{}
 void sub()
 {
   a-b
